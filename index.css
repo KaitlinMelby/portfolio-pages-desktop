@@ -55,7 +55,7 @@ body {
 }
 
 .yellow-flower{
-    height: 20px;
+    height: 5px;
     margin-top: 870px;
     margin-left: 60px;
     display: flex;
@@ -84,11 +84,21 @@ body {
     border-radius: 5px;
     height: 0px;
     width: 0px;
-    margin-top: 430px;
+    margin-top: 530px;
     padding: 15px;
     rotate: 45deg;
 
 
+}
+
+.adjust-lines{
+    margin-top: 140px;
+    rotate: 20deg;
+    
+}
+
+.lines {
+    margin-left: -10px
 }
 
 
@@ -99,7 +109,7 @@ body {
     border-left: 0px;
     height: 0px;
     width: 0px;
-    margin-top: 430px;
+    margin-top: 530px;
     padding: 15px;
     rotate: 45deg;
 
@@ -109,8 +119,8 @@ body {
     display: flex;
     justify-content: space-between;
     height: 50px;
-    margin-top: 100px;
-    margin-left: 40px;
+    margin-top: 200px;
+    
 }
 
 .one{
